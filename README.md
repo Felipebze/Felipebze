@@ -45,8 +45,9 @@ Atualmente, curso **Big Data para Negócios na FATEC**, onde desenvolvo competê
 
 Estou sempre aberto a discussões sobre engenharia de dados, análise preditiva e estratégias de Big Data.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[SEU-LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU-EMAIL]@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/felipecienciadedados/
+])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[felipesp195@gmail.com]@gmail.com)
 
 ---
 *"In God we trust, all others must bring data." – W. Edwards Deming*
