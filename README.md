@@ -1,59 +1,38 @@
-# 👋 Olá, eu sou o Felipe
+# Felipe | Big Data & Business Strategy 📊
 
-🎓 Estudante de **Big Data para Negócios** na Fatec  
-💻 Apaixonado por **tecnologia, dados e inovação**  
-📊 Explorando o mundo de **dados, programação e análise**
+### 📊 Estudante de Big Data para Negócios (FATEC)
 
----
-
-## 🚀 Sobre mim
-
-Sou um entusiasta da tecnologia que acredita no poder dos dados para transformar decisões e gerar impacto real nos negócios.
-
-Atualmente estou focado em aprender e desenvolver habilidades em:
-
-- 📊 Análise de Dados
-- 🐍 Python
-- 🗄️ Banco de Dados
-- 📈 Big Data
-- 🤖 Tecnologia e Inovação
-
-Sempre buscando evoluir, aprender coisas novas e construir projetos que resolvam problemas reais.
+Atualmente, curso Big Data para Negócios na FATEC, onde desenvolvo competências analíticas e técnicas voltadas à extração, processamento e interpretação estratégica de grandes volumes de dados. Minha formação é focada na intersecção entre tecnologia da informação e inteligência de mercado, abrangendo arquitetura de dados, governança, análise estatística e a aplicação de soluções de *Business Intelligence* para suporte à tomada de decisão em cenários complexos.
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
+### 🛠️ Tecnologias e Ferramentas:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Data](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipebze&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebze&layout=compact&theme=dark)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="70"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="70"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="70"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="70"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="70"/>
+</p>
 
 ---
 
-## 📚 Atualmente aprendendo
+### 📈 Estatísticas e Atividade:
 
-- Python para análise de dados
-- Estruturação de bancos de dados
-- Conceitos de Big Data
-- Ferramentas de dados para negócios
-
----
-
-## 🌎 Vamos nos conectar
-
-📧 Email: **felipesp195@gmail.com**
-
-💼 Sempre aberto para trocar ideias sobre tecnologia, dados e projetos.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
-- ⚡ Fun fact: ...
--->
+
+### 📫 Conecte-se comigo:
+
+Estou sempre aberto a discussões sobre engenharia de dados, análise preditiva e estratégias de Big Data.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[SEU-LINKEDIN])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU-EMAIL]@gmail.com)
+
+---
+*"In God we trust, all others must bring data." – W. Edwards Deming*
