@@ -1,23 +1,35 @@
-# Felipe | Big Data & Business Strategy 📊
+<h1 align="center">Felipe Santos 📊</h1>
 
-### 📊 Especialista em Formação: Big Data para Negócios (FATEC)
+<p align="center">
+Estudante de Big Data para Negócios na FATEC | Python, SQL & Business Intelligence | Modelagem de Dados e Estatística Aplicada
+</p>
 
-Atualmente, curso **Big Data para Negócios na FATEC**, onde desenvolvo competências analíticas e técnicas voltadas à extração, processamento e interpretação estratégica de grandes volumes de dados. Minha formação é focada na intersecção entre tecnologia da informação e inteligência de mercado, abrangendo arquitetura de dados, governança, análise estatística e a aplicação de soluções de *Business Intelligence* para suporte à tomada de decisão em cenários complexos.
-
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Entusiasta+de+Tecnologia;Explorando+o+mundo+dos+Dados;Sempre+aprendendo+algo+novo+🚀"/>
+</p>
 
 ### 🚀 Expertise & Tech Stack
 
-**🔹 Core de Big Data & Negócios (Atual)**
-* **Análise de Dados:** SQL, Modelagem de Dados Relacionais, Microsoft Excel Avançado.
-* **Linguagens & Estatística:** Python (Básico/Intermediário), Linguagem R, RStudio.
-* **Workflow & Qualidade:** Git/GitHub, Lógica de Programação, UML e Documentação Técnica.
+**🔹 Base em Dados**
 
-**🔹 Roadmap de Aprendizado (Próximos Passos)**
-* **Engenharia & Infra:** Cloud Computing, Arquiteturas Distribuídas e Governança de Dados.
-* **Inteligência de Mercado:** Power BI/Tableau, Machine Learning e Análise Preditiva.
-* **Backend:** Aperfeiçoamento em Node.js, Java e integração de APIs RESTful.
+• **SQL** — consultas, manipulação e modelagem de dados  
+• **Python** — análise de dados e automação  
+• **R / RStudio** — estatística e exploração de dados  
+• **Excel Avançado** — análise e visualização de informações  
 
+**🔹 Fundamentos Técnicos**
+
+• **Modelagem de Dados Relacionais**  
+• **Lógica de Programação**  
+• **Git & GitHub** — versionamento de código  
+• **Documentação Técnica e UML**
+
+**🔹 Próximos Passos**
+
+• **Big Data & Engenharia de Dados**  
+• **Cloud Computing**  
+• **Power BI / Data Visualization**  
+• **Machine Learning e Análise Preditiva**
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
@@ -41,6 +53,11 @@ Atualmente, curso **Big Data para Negócios na FATEC**, onde desenvolvo competê
 </p>
 
 ---
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ## 🌐 Conecte-se comigo
 
