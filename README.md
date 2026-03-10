@@ -1,4 +1,4 @@
-# Felipe | Big Data & Business Strategy 📊
+# Felipe Santos | Big Data & Business Strategy 📊
 
 ### 📊 Especialista em Formação: Big Data para Negócios (FATEC)
 
