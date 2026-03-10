@@ -1,67 +1,66 @@
-# Felipe Santos | Big Data & Business Strategy 📊
-
-### 📊 Especialista em Formação: Big Data para Negócios (FATEC)
-
-Atualmente, curso **Big Data para Negócios na FATEC**, onde desenvolvo competências analíticas e técnicas voltadas à extração, processamento e interpretação estratégica de grandes volumes de dados. Minha formação é focada na intersecção entre tecnologia da informação e inteligência de mercado, abrangendo arquitetura de dados, governança, análise estatística e a aplicação de soluções de *Business Intelligence* para suporte à tomada de decisão em cenários complexos.
-
----
-
-### 🚀 Expertise & Tech Stack
-
-**🔹 Core de Big Data & Negócios (Atual)**
-* **Análise de Dados:** SQL, Modelagem de Dados Relacionais, Microsoft Excel Avançado.
-* **Linguagens & Estatística:** Python (Básico/Intermediário), Linguagem R, RStudio.
-* **Workflow & Qualidade:** Git/GitHub, Lógica de Programação, UML e Documentação Técnica.
-
-**🔹 Roadmap de Aprendizado (Próximos Passos)**
-* **Engenharia & Infra:** Cloud Computing, Arquiteturas Distribuídas e Governança de Dados.
-* **Inteligência de Mercado:** Power BI/Tableau, Machine Learning e Análise Preditiva.
-* **Backend:** Aperfeiçoamento em Node.js, Java e integração de APIs RESTful.
-
----
-
-### 🛠️ Tecnologias e Ferramentas:
+<h1 align="center">Olá 👋 Eu sou o Felipe</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="70"/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="70"/>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="70"/>
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="70"/>
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="70"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+Big+Data+para+Negócios;Apaixonado+por+Tecnologia+e+Dados;Sempre+aprendendo+algo+novo+🚀">
 </p>
 
 ---
 
-### 📈 Estatísticas e Atividade:
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de **Big Data para Negócios na Fatec**
+
+💡 Tenho grande interesse em **tecnologia, dados e inovação**.
+
+📊 Atualmente focado em aprender e evoluir em:
+
+- Python
+- SQL
+- Análise de Dados
+- Bancos de Dados
+- Tecnologias de Big Data
+
+Meu objetivo é construir uma carreira sólida na área de **dados**, transformando informação em **insights e soluções para negócios**.
+
+---
+
+## 🚀 Tecnologias em estudo
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&langs_count=7&theme=dracula"/>
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebze&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 📫 Conecte-se comigo:
+## 🎯 Atualmente aprendendo
 
-Estou sempre aberto a discussões sobre engenharia de dados, análise preditiva e estratégias de Big Data.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecienciadedados/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipesp195@gmail.com)
+- Python para análise de dados
+- SQL e modelagem de dados
+- Conceitos de Big Data
+- Estruturação e manipulação de dados
 
 ---
-*"In God we trust, all others must bring data." – W. Edwards Deming*
 
-<!--
-**Felipebze/Felipebze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Contato
 
-Here are some ideas to get you started:
+📧 **Email:**  
+felipesp195@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+🚀 Construindo conhecimento em tecnologia e dados todos os dias.
+</p>
